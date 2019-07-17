@@ -1,8 +1,9 @@
 # MIDI Progger mididef files
 
-Your regular scheduled program is changed for this important message:
-
 > A simple text file can make all the change in the world
+
+
+Your regular scheduled program is changed for this important message:
 
 These are mididef files which contain MIDI program names and numbers (MSB, LSB, program) for synthesizers. These files are loaded by MIDI Progger and allow you to search for and send program changes to your favourite synth.
 
